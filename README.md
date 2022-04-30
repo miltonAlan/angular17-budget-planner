@@ -11,6 +11,14 @@ Ejecuta `ng generate component component-name` para generar un nuevo componente.
 ## Compilación
 Ejecuta `ng build` para compilar el proyecto. Los artefactos de compilación se almacenarán en el directorio `dist/`.
 
+## Vista previa
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/angular17-budget-planner/master/capture1.png "Vista previa 1")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/angular17-budget-planner/master/capture2.png "Vista previa 2")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/angular17-budget-planner/master/capture3.png "Vista previa 3")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/angular17-budget-planner/master/capture4.png "Vista previa 4")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/angular17-budget-planner/master/capture5.png "Vista previa 5")
+![Vista previa](https://raw.githubusercontent.com/miltonAlan/angular17-budget-planner/master/capture6.png "Vista previa 6")
+
 ## Ejecución de Pruebas Unitarias
 Ejecuta `ng test` para ejecutar las pruebas unitarias a través de Karma.
 
